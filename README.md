@@ -1,3 +1,8 @@
+[![Maintained? No](https://img.shields.io/badge/maintained%3F-no!-red.svg)](https://shields.io/)
+# THIS FORK IS NO LONGER MAINTAINED
+
+* * *
+
 # Redmine Email Images
 
 The plugin address this issue: http://www.redmine.org/issues/2770. 
